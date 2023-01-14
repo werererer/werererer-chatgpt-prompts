@@ -70,11 +70,10 @@ exercise_e = \fixed c' {
 }
 
 % Create 5 exercises.
-% The deepest pich will be c' and the highest will be c'''
-% All exercises will be in a singable range. that means a normal man can sing
-% them without any problems.
+% The deepest pich will be a and the highest will be e''
 % instead of e flat write e.g. write es.
 % instead of bb write bes.
+% use fixed notes for the exercises.
 % all exercises are two measures long.
 % all exercises sound completely unlike each other.
 % all exercises have interesting rhythms.
@@ -84,4 +83,4 @@ exercise_e = \fixed c' {
 % You will start with different pitches for each exercise!
 % add big jumps to the melody. and make it go in all directions.
 % You are a a world class musican who is very creative you know what sounds good.
-% Give me the full code with correct indentation.
+% CODE:
