@@ -17,5 +17,3 @@ This repository is not open for contributions. These are the prompts that I have
 ## Acknowledgments
 
 Thanks to OpenAI for creating the ChatGPT model.
-
-- Chatgpt
