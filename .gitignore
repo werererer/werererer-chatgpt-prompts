@@ -1,0 +1,14 @@
+# generic
+*.ps
+
+# pdf files
+*.pdf
+
+# midi files
+*.midi
+*mid
+
+# audio files
+*.mp3
+*.wav
+*.flac
