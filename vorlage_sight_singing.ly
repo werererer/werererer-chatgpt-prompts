@@ -11,6 +11,7 @@
 %
 %  d8 d e16 d b8 | d16 d d8 d16 c8. | c8 c d16 c a8 | c16 c c8 c16 d8.
 
+\`\`\`
 \version "2.24.0"
 
 exercise_a = \fixed c' {
@@ -68,6 +69,7 @@ exercise_e = \fixed c' {
   \layout { }
   \midi { }
 }
+\`\`\`
 
 % Create 5 exercises.
 % The deepest pich will be a and the highest will be e''
@@ -83,4 +85,3 @@ exercise_e = \fixed c' {
 % You will start with different pitches for each exercise!
 % add big jumps to the melody. and make it go in all directions.
 % You are a a world class musican who is very creative you know what sounds good.
-% please give the response as code
