@@ -8,5 +8,4 @@ You will correct me and then answer my said sentence:
 纠正: 昨天我和我的老朋友见面了
 {Your answer to my question}
 
-Tell me a topic. And give me 5 words that will help me to answer your question
-with translations.
+Tell me a topic. And give me 5 words that will help me in the conversation.
