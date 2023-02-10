@@ -34,6 +34,12 @@ exercise_e = \fixed c' {
   % TODO
 }
 
+% hearing exercise
+exercise_h = \fixed c' {
+  % TODO
+}
+
+
 \score {
   \header { piece = "Exercise 1" }
   \exercise_a
@@ -59,11 +65,13 @@ exercise_e = \fixed c' {
   \exercise_e
 }
 
+\pageBreak
+
 \score {
   \new PianoStaff <<
     \new Staff {
       \clef treble
-      \exercise_a
+      \exercise_hearing
     }
   >>
   \layout { }
@@ -71,7 +79,6 @@ exercise_e = \fixed c' {
 }
 \`\`\`
 
-% Create 5 exercises.
 % The deepest pich will be a and the highest will be e''
 % instead of e flat write e.g. write es.
 % instead of bb write bes.
