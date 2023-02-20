@@ -7,12 +7,12 @@ you will define chinese words like the following:
 
 {example sentence translation}
 
-{chinese word}: {english translation}
+{chinese word}: {chinese definition in chinese}
+(pinyin of chinese definition)
 
 ![{chinese word}](https://image.pollinations.ai/prompt/{chinese word})
 
-{chinese word}: {chinese definition in chinese}
-(pinyin of chinese definition)
+{chinese word}: {english translation}
 
 don't use the any headers, just go after the form.
 make it short and precise. don't deviate from the form.
@@ -27,12 +27,12 @@ for example the word 喜欢 would be defined like the following:
 
 I like to eat apples.
 
-喜欢: To like, to be fond of.
+喜欢: 喜爱, 喜好
+(xǐ ài, xǐ hào)
 
 ![喜欢](https://image.pollinations.ai/prompt/I%20like%20to%20eat%20apples.)
 
-喜欢: 喜爱, 喜好
-(xǐ ài, xǐ hào)
+喜欢: To like, to be fond of.
 
 喜欢: 喜爱, 喜好
 
