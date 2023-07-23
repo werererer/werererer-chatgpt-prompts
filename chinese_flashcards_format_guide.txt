@@ -1,4 +1,4 @@
--------------- {chinese word} ({pinyin of chinese word}) --------------
+-------------- {chinese word} ({pinyin of Chinese word}) --------------
 {example sentence}
 (pinyin of example sentence)
 
@@ -6,21 +6,21 @@
 {example sentence translation}
 
 {chinese word}: {chinese definition in chinese}
-(pinyin of chinese definition)
+(pinyin of Chinese definition)
 
 {chinese word}: {english translation}
 
-don't use the any headers, just go after the form.
+don't use any headers, just go after the form.
 make it short and precise. don't deviate from the form.
 the definition should never contain the word you are defining.
 
-for example the word 喜欢 would be defined like the following:
+for example, the word 喜欢 would be defined like the following:
 
 -------------- 喜欢 (xǐ huan) --------------
 我喜欢吃苹果。
 (wǒ xǐ huan chī píng guǒ.)
 
-{image of the example sentence}
+{generated image}
 I like to eat apples.
 
 喜欢: 喜爱, 喜好
