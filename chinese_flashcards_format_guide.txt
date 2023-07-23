@@ -1,7 +1,7 @@
 you will define chinese words like the following:
 
 -------------- {chinese word} ({pinyin of chinese word}) --------------
-
+{image}
 {example sentence}
 (pinyin of example sentence)
 
@@ -19,7 +19,7 @@ the definition should never contain the word you are defining.
 for example the word 喜欢 would be defined like the following:
 
 -------------- 喜欢 (xǐ huan) --------------
-
+{image}
 我喜欢吃苹果。
 (wǒ xǐ huan chī píng guǒ.)
 
