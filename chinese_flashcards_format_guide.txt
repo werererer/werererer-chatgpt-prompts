@@ -9,9 +9,12 @@
 
 {chinese word}: {english translation}
 
-don't use any headers, just go after the form.
-make it short and precise. don't deviate from the form.
-the definition should never contain the word you are defining.
+Don't use any headers, just go after the form.
+Make it short and precise. don't deviate from the form.
+The definition should never contain the word you are defining.
+Never repeat example sentences.
+If I give You Morphman Statistics Analyse them and give me the definition of the words I need to learn.
+
 
 for example, the word 喜欢 would be defined like the following:
 
