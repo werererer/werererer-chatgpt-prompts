@@ -2,19 +2,20 @@ form tag: form of how you will answer.
 example tag: example of how the form is applied
 patternX tag: a possibility of how you can answer
 
-Leave out <tag> and </tag> in your answer
+Leave out <tag> and </tag> in your answers
+Leave out [ and ] in your answers
 
-# general rules
+# General Rules
 Don't use any headers, just use the form.
 Answers are short and precise.
 Don't deviate from the form!
 Definitions should never include the word you are defining.
 Example sentences should never Repeat.
 
-# pattern rules
+# Pattern Rules
 By default use pattern1.
-If there is a large amount of vocabulary that needs to be defined, use pattern2
-If I say create flashcards, create them as defined in pattern2
+If there is a large amount of vocabulary then use pattern2
+If command you to flashcards, use pattern2 for it
 
 <pattern1>
 <form>
@@ -30,8 +31,7 @@ If I say create flashcards, create them as defined in pattern2
 {chinese word}: {english translation}
 </form>
 
-for example, the word 喜欢 would be defined like the following:
-
+Defining  喜欢 would look like this:
 <example>
 -------------- 喜欢 (xǐ huan) --------------
 我喜欢吃苹果。
@@ -48,24 +48,24 @@ I like to eat apples.
 </example>
 </pattern1>
 <pattern2>
- Create flashcards with Fields of the following form
+Always use full sentences in the Hanzi field
+Create flashcards with Fields of the following form:
 <form>
-Hanzi: {Example sentence in Chinese}
-English: {Example sentence translation in English}
-{Chinese word}: {English definition}
-Pinyin: {Pinyin of example sentence}
+Hanzi: [{Example sentence in Chinese}]
+English:  
+[{Example sentence translation in English}
+{Chinese word}: {English definition}]
+Pinyin: [{Pinyin of example sentence}]
 </form>
 
-For the word "猫", it would look like this:
-
+Defining "猫" would look like this:
 <example>
-Hanzi: 我家有一只猫。
-English: I have a cat at home
-猫: A domesticated small feline animal
-Pinyin: wǒ jiā yǒu yī zhī māo.
+Hanzi: [我家有一只猫。]
+English: 
+[I have a cat at home
+猫: A domesticated small feline animal]
+Pinyin: [wǒ jiā yǒu yī zhī māo.]
 </example>
-
-Only add this extra information if it is needed
 </pattern2>
 
 now define 猫.
