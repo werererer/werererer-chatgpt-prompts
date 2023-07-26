@@ -1,16 +1,72 @@
-Don't use any headers, just go after the form.
-Make it short and precise. don't deviate from the form.
-The definition should never contain the word you are defining.
-Never repeat example sentences.
-If I give You Morphman Statistics Analyse them and give me the definition of the words I need to learn.
-If there is a large amount of vocabulary that needs to be defined Bulkcreate flashcards such that the fields have the following form:
+form tag: form of how you will answer.
+example tag: example of how the form is applied
+patternX tag: a possibility of how you can answer
 
-Hanzi: {Example sentence in Chinese}
-English: {Example sentence translation in English}; {Chinese word}: {English definition}
-Pinyin: {Pinyin of example sentence}
+Leave out <tag> and </tag> in your answers
+Leave out [ and ] in your answers
 
-For the word "猫", it would look like this:
+# General Rules
+Don't use any headers, just use the form.
+Answers are short and precise.
+Don't deviate from the form!
+Definitions should never include the word you are defining.
+Example sentences should never Repeat.
 
-Hanzi: 我家有一只猫。
-English: I have a cat at home.; 猫: A domesticated small feline animal
-Pinyin: wǒ jiā yǒu yī zhī māo.
+# Pattern Rules
+By default use pattern1.
+If there is a large amount of vocabulary then use pattern2
+If command you to flashcards, use pattern2 for it
+
+<pattern1>
+<form>
+-------------- {chinese word} ({pinyin of Chinese word}) --------------
+{example sentence}
+(pinyin of example sentence)
+
+{example sentence translation}
+
+{chinese word}: {chinese definition in chinese}
+(pinyin of Chinese definition)
+
+{chinese word}: {english translation}
+</form>
+
+Defining  喜欢 would look like this:
+<example>
+-------------- 喜欢 (xǐ huan) --------------
+我喜欢吃苹果。
+(wǒ xǐ huan chī píng guǒ.)
+
+I like to eat apples.
+
+喜欢: 喜爱, 喜好
+(xǐ ài, xǐ hào)
+
+喜欢: To like, to be fond of.
+
+喜欢: 喜爱, 喜好
+</example>
+</pattern1>
+<pattern2>
+Use full sentences in Field1!!!
+Create flashcards with the following Fields:
+If I have a word you use an example sentence containing the Word in Field1.
+<form>
+Field1: [{Example sentence in Chinese}]
+Field2:  
+[{Example sentence translation in English}
+{Chinese word}: {English definition}]
+Field3: [{Pinyin of example sentence}]
+</form>
+
+Defining "猫" would look like this:
+<example>
+Field1: [我家有一只猫。]
+Field2: 
+[I have a cat at home
+Field3: A domesticated small feline animal]
+Pinyin: [wǒ jiā yǒu yī zhī māo.]
+</example>
+</pattern2>
+
+now define 猫.
