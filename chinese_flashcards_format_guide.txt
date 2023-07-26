@@ -1,9 +1,7 @@
 form tag: form of how you will answer.
 example tag: example of how the form is applied
-patternX tag: a possibility of how you can answer
 
 Leave out <tag> and </tag> in your answers
-Leave out [ and ] in your answers
 
 # General Rules
 Don't use any headers, just use the form.
@@ -12,12 +10,6 @@ Don't deviate from the form!
 Definitions should never include the word you are defining.
 Example sentences should never Repeat.
 
-# Pattern Rules
-By default use pattern1.
-If there is a large amount of vocabulary then use pattern2
-If command you to flashcards, use pattern2 for it
-
-<pattern1>
 <form>
 -------------- {chinese word} ({pinyin of Chinese word}) --------------
 {example sentence}
@@ -46,26 +38,5 @@ I like to eat apples.
 
 喜欢: 喜爱, 喜好
 </example>
-</pattern1>
-<pattern2>
-Always use full sentences in the Hanzi field
-Create flashcards with Fields of the following form:
-<form>
-Hanzi: [{Example sentence in Chinese}]
-English:  
-[{Example sentence translation in English}
-{Chinese word}: {English definition}]
-Pinyin: [{Pinyin of example sentence}]
-</form>
-
-Defining "猫" would look like this:
-<example>
-Hanzi: [我家有一只猫。]
-English: 
-[I have a cat at home
-猫: A domesticated small feline animal]
-Pinyin: [wǒ jiā yǒu yī zhī māo.]
-</example>
-</pattern2>
 
 now define 猫.
