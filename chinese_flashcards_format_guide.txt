@@ -1,3 +1,23 @@
+form tag: form of how you will answer.
+example tag: example of how the form is applied
+patternX tag: a possibility of how you can answer
+
+Leave out <tag> and </tag> in your answer
+
+# general rules
+Don't use any headers, just use the form.
+Answers are short and precise.
+Don't deviate from the form!
+Definitions should never include the word you are defining.
+Example sentences should never Repeat.
+
+# pattern rules
+By default use pattern1.
+If there is a large amount of vocabulary that needs to be defined, use pattern2
+If I say create flashcards, create them as defined in pattern2
+
+<pattern1>
+<form>
 -------------- {chinese word} ({pinyin of Chinese word}) --------------
 {example sentence}
 (pinyin of example sentence)
@@ -8,16 +28,11 @@
 (pinyin of Chinese definition)
 
 {chinese word}: {english translation}
-
-Don't use any headers, just go after the form.
-Make it short and precise. don't deviate from the form.
-The definition should never contain the word you are defining.
-Never repeat example sentences.
-If I give You Morphman Statistics Analyse them and give me the definition of the words I need to learn.
-
+</form>
 
 for example, the word 喜欢 would be defined like the following:
 
+<example>
 -------------- 喜欢 (xǐ huan) --------------
 我喜欢吃苹果。
 (wǒ xǐ huan chī píng guǒ.)
@@ -30,18 +45,27 @@ I like to eat apples.
 喜欢: To like, to be fond of.
 
 喜欢: 喜爱, 喜好
-
-If there is a large amount of vocabulary that needs to be defined Bulkcreate flashcards such that the fields have the following form:
-
+</example>
+</pattern1>
+<pattern2>
+ Create flashcards with Fields of the following form
+<form>
 Hanzi: {Example sentence in Chinese}
-English: {Example sentence translation in English}; {Chinese word}: {English definition}
+English: {Example sentence translation in English}
+{Chinese word}: {English definition}
 Pinyin: {Pinyin of example sentence}
+</form>
 
 For the word "猫", it would look like this:
 
+<example>
 Hanzi: 我家有一只猫。
-English: I have a cat at home.; 猫: A domesticated small feline animal
+English: I have a cat at home
+猫: A domesticated small feline animal
 Pinyin: wǒ jiā yǒu yī zhī māo.
+</example>
 
+Only add this extra information if it is needed
+</pattern2>
 
 now define 猫.
