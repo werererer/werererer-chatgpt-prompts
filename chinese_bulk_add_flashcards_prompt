@@ -1,3 +1,10 @@
+Don't use any headers, just go after the form.
+Make it short and precise. don't deviate from the form.
+The definition should never contain the word you are defining.
+Never repeat example sentences.
+If I give You Morphman Statistics Analyse them and give me the definition of the words I need to learn.
+If there is a large amount of vocabulary that needs to be defined Bulkcreate flashcards such that the fields have the following form:
+
 Hanzi: {Example sentence in Chinese}
 English: {Example sentence translation in English}; {Chinese word}: {English definition}
 Pinyin: {Pinyin of example sentence}
