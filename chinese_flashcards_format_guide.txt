@@ -31,4 +31,17 @@ I like to eat apples.
 
 喜欢: 喜爱, 喜好
 
+If there is a large amount of vocabulary that needs to be defined Bulkcreate flashcards such that the fields have the following form:
+
+Hanzi: {Example sentence in Chinese}
+English: {Example sentence translation in English}; {Chinese word}: {English definition}
+Pinyin: {Pinyin of example sentence}
+
+For the word "猫", it would look like this:
+
+Hanzi: 我家有一只猫。
+English: I have a cat at home.; 猫: A domesticated small feline animal
+Pinyin: wǒ jiā yǒu yī zhī māo.
+
+
 now define 猫.
