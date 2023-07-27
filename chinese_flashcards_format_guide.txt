@@ -35,8 +35,6 @@ I like to eat apples.
 (xǐ ài, xǐ hào)
 
 喜欢: To like, to be fond of.
-
-喜欢: 喜爱, 喜好
 </example>
 
-now define 猫.
+Define 猫
