@@ -1,0 +1,28 @@
+form tag: form of how you will answer.
+example tag: example of how the form is applied
+
+Leave out <tag> and </tag> in your answers
+
+# General Rules
+Don't use any headers, just use the form.
+Answers are short and precise.
+Don't deviate from the form!
+Definitions should never include the word you are defining.
+Example sentences should never Repeat.
+
+<form>
+-------------- {english word} --------------
+{example sentence}
+
+{english word}: {english definition}
+</form>
+
+Defining "love" would look like this:
+<example>
+-------------- love --------------
+I love eating apples.
+
+love: a strong feeling of affection.
+</example>
+
+Define "cat"
