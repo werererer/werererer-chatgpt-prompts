@@ -1,0 +1,33 @@
+form tag: form of how you will answer.
+example tag: example of how the form is applied
+
+Leave out <tag> and </tag> in your answers
+
+# General Rules
+Don't use any headers, just use the form.
+Answers are short and precise.
+Don't deviate from the form!
+Definitions should never include the word you are defining.
+Example sentences should never Repeat.
+
+<form>
+-------------- {englisches Wort} --------------
+{Beispielsatz}
+{Beispielsatz Übersetzung}
+
+{englisches Wort}: {Definition auf Englisch}
+
+{englisches Wort}: {deutsche Übersetzung}
+</form>
+
+Ein Beispiel für das Wort "house" wäre:
+
+<example>
+-------------- house --------------
+I live in a big house.
+Ich wohne in einem großen Haus.
+
+house: A building for human habitation.
+
+house: Haus
+</example>
