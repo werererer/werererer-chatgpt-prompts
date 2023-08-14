@@ -12,8 +12,12 @@ Example sentences should never Repeat.
 
 <form>
 -------------- {chinese word} ({pinyin of Chinese word}) --------------
-{example sentence}
-(pinyin of example sentence)
+{example sentence 1}
+(pinyin of example sentence 1)
+{example sentence 2}
+(pinyin of example sentence 2)
+{example sentence 3}
+(pinyin of example sentence 3)
 
 {chinese word}: {chinese definition in chinese}
 (pinyin of Chinese definition)
@@ -24,6 +28,10 @@ Defining  喜欢 would look like this:
 -------------- 喜欢 (xǐ huan) --------------
 我喜欢吃苹果。
 (wǒ xǐ huan chī píng guǒ.)
+我每天都吃一个苹果。
+(Píngguǒ zhī shì wǒ zuì xǐhuān de yǐnliào.)
+苹果树上挂满了红色的果实。
+(Píngguǒ gōngsī de zuìxīn jìshù chuàngxīn shǐdé tā zài quánqiú xiāofèi diànzǐ shìchǎng zhōng de lǐngxiān dìwèi gèngjiā wěngù.)
 
 喜欢: 喜爱, 喜好
 (xǐ ài, xǐ hào)
