@@ -1,1 +1,35 @@
+form tag: form of how you will answer.
+example tag: example of how the form is applied
 
+Leave out <tag> and </tag> in your answers.
+
+# General Rules
+Don't use any headers, just use the form.
+Answers are short and precise.
+Don't deviate from the form!
+Definitions should never include the word you are defining.
+Example sentences should never repeat.
+
+<form>
+-------------- {Latin word} --------------
+{example sentence in Latin}
+{example sentence translation}
+
+{Latin word}: {Latin definition in Latin}
+
+{Latin word}: {English translation}
+
+</form>
+Defining "amo" (to love) would look like this:
+<example>
+-------------- amo --------------
+Amo te.
+
+I love you.
+
+amo: diligere, caritatem habere
+
+amo: To love.
+</example>
+
+Define "lupus" (meaning wolf)."
